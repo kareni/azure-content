@@ -242,13 +242,19 @@ This column captures 3rd party specific information.
 
 ### Additional Info
 This column shows additional data for some of the services.
+<br></br>
+---
+
 
 Please see these additional sources of information file for more details. These files are updated on a monthly basis, published on the 25th for the coming month, and are available from February 2015 onwards. Below is the base file URL for the Service Download Fields:
 
->>  https://azurepricing.blob.core.windows.net/supplemental/YYYY_MM_Service_Download_Fields.xlsx
+>>  To download the Service Field definitions for Detailed Usage v1, use this URL: https://azurepricing.blob.core.windows.net/supplemental/MOSPServices_v1_MMYYYY.xlsx
+
+>>  To download the Service Field definitions for Detailed Usage v2, use this URL: https://azurepricing.blob.core.windows.net/supplemental/MOSPServices_v2_MMYYYY.xlsx
 
 
-To find the most current version, enter in the Year and Month (Looking for March 2015 file, enter in **2015_03** into the section _**“YYYY_MM”**_ in the above URL).  This spreadsheet provides a listing of all possible combinations of the service related fields in the **Usage Download Report**.
+
+To find the most current version, enter in the Year and Month (Looking for March 2015 file, enter in _**032015**_ into the section _**“MMYYYY”**_ in the above URL).  This spreadsheet provides a listing of all possible combinations of the service related fields in the **Usage Download Report**.
 
 
 <!--Image references-->
